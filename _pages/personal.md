@@ -8,7 +8,7 @@ author_profile: true
 
 Not everything I do involves a terminal.
 
-![Hiking in the mountains](/images/hiking.jpg)
+![Hiking in the mountains](/images/image.jpg)
 
 ---
 
